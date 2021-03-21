@@ -6,6 +6,6 @@ target 'Kingfishy' do
   use_frameworks!
 
   # Pods for Kingfishy
-  pod 'Kingfisher', '~> 6.2'
+  pod 'Kingfisher', '~> 6.2.1'
 
 end
