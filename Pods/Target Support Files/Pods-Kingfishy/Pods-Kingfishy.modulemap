@@ -1,0 +1,6 @@
+framework module Pods_Kingfishy {
+  umbrella header "Pods-Kingfishy-umbrella.h"
+
+  export *
+  module * { export * }
+}
